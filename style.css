@@ -1,3 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+.carousel-control-next-icon {
+    background-color: rgb(238, 198, 205);
+  
+}
+.carousel-control-prev-icon {
+    background-color: rgb(238, 198, 205);
+  
+}
+
 .navigation{
     margin-top: 30px;
     
